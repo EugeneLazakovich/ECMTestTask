@@ -1,0 +1,11 @@
+C:\Users\Виталик\source\repos\ECMTask\ECMTask\bin\Debug\netcoreapp3.0\ECMTask.exe
+C:\Users\Виталик\source\repos\ECMTask\ECMTask\bin\Debug\netcoreapp3.0\ECMTask.deps.json
+C:\Users\Виталик\source\repos\ECMTask\ECMTask\bin\Debug\netcoreapp3.0\ECMTask.runtimeconfig.json
+C:\Users\Виталик\source\repos\ECMTask\ECMTask\bin\Debug\netcoreapp3.0\ECMTask.runtimeconfig.dev.json
+C:\Users\Виталик\source\repos\ECMTask\ECMTask\bin\Debug\netcoreapp3.0\ECMTask.dll
+C:\Users\Виталик\source\repos\ECMTask\ECMTask\bin\Debug\netcoreapp3.0\ECMTask.pdb
+C:\Users\Виталик\source\repos\ECMTask\ECMTask\obj\Debug\netcoreapp3.0\ECMTask.csprojAssemblyReference.cache
+C:\Users\Виталик\source\repos\ECMTask\ECMTask\obj\Debug\netcoreapp3.0\ECMTask.AssemblyInfoInputs.cache
+C:\Users\Виталик\source\repos\ECMTask\ECMTask\obj\Debug\netcoreapp3.0\ECMTask.AssemblyInfo.cs
+C:\Users\Виталик\source\repos\ECMTask\ECMTask\obj\Debug\netcoreapp3.0\ECMTask.dll
+C:\Users\Виталик\source\repos\ECMTask\ECMTask\obj\Debug\netcoreapp3.0\ECMTask.pdb
