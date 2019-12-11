@@ -15,7 +15,7 @@ namespace ECMTask
                                  { 956, 459, 444, 122, 555, 453},
                                  { 333, 677, 888, 832, 245, 228} };
 
-            if (CheckNumber(Math.Sqrt(matrix.Length)))
+            if (CheckNumber(matrix))
             {
                 Dictionary<int, object> tempDict = new Dictionary<int, object>();
 
@@ -54,9 +54,9 @@ namespace ECMTask
                 Console.WriteLine("The matrix is not N*N form!");
             }
         }
-        static Boolean CheckNumber(double doubNum)
+        static Boolean CheckNumber(object[,] matrix)
         {
-            if ((doubNum - (int)doubNum) == 0)
+            if (matrix.GetUpperBound(0) == matrix.GetUpperBound(1))
             {
                 return true;
             }
